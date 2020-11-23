@@ -1,0 +1,28 @@
+{
+  "name": "simple-blog-website-node-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxsKramer/simple-blog-website-node-mongo.git"
+  },
+  "keywords": [],
+  "author": "Alexander Kramer <kramer.axs1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AxsKramer/simple-blog-website-node-mongo/issues"
+  },
+  "homepage": "https://github.com/AxsKramer/simple-blog-website-node-mongo#readme",
+  "dependencies": {
+    "ejs": "3.1.5",
+    "express": "4.17.1",
+    "mongoose": "5.10.15"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.6"
+  }
+}
